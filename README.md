@@ -8,10 +8,11 @@ The system combines **Random Forest Machine Learning, SHAP-based Explainable AI 
 
 ---
 
-![Uploading WhatsApp Image 2026-08-15 at 10.02.52 AM (1).jpeg…]()
+<img width="278" height="459" alt="image" src="https://github.com/user-attachments/assets/34fc0f1d-07e4-469e-aa29-72a6b73553ae" />
 
 
-![Uploading WhatsApp Image 2026-08-15 at 10.02.52 AM.jpeg…]()
+<img width="1323" height="434" alt="image" src="https://github.com/user-attachments/assets/646a3a63-562d-4b90-965f-bb82875c12c8" />
+
 
 
 ## 🚀 Project Overview
