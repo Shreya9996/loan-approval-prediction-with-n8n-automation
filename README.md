@@ -8,6 +8,12 @@ The system combines **Random Forest Machine Learning, SHAP-based Explainable AI 
 
 ---
 
+![Uploading WhatsApp Image 2026-08-15 at 10.02.52 AM (1).jpeg…]()
+
+
+![Uploading WhatsApp Image 2026-08-15 at 10.02.52 AM.jpeg…]()
+
+
 ## 🚀 Project Overview
 
 Traditional loan approval systems often provide only a final decision such as:
